@@ -1,0 +1,1 @@
+The current assingments consistes of branching and using of branching and how branching helps in creating another branch away from the master file so any changes done in the branch directory doesnt affect the master directory.
