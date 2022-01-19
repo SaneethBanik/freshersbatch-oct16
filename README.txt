@@ -1,1 +1,1 @@
-The current assingments consistes of branching and using of branching and how branching helps in creating another branch away from the master file so any changes done in the branch directory doesnt affect the master directory. This is another edit for this assignment.
+The current assingments is based on Git Remoting and how to push files from the local repository to the remote repository (Github).This assignment is to understand how the $git push command works when used in Git Bash.
